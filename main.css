@@ -1,0 +1,20 @@
+.box {
+    height: 80px;
+    width: 80px;
+    background-color: black;
+    padding:10px;
+    margin: 10px;
+}
+ #boxContainer { 
+     margin-left: auto;
+     margin-top:150px;
+     margin-right:auto;
+     display: flex;
+     flex-wrap: wrap;
+     align-items: center;
+     justify-content: center;
+     width: 40%;
+} 
+.darkMode {
+    background-color: rgb(11, 133, 155);
+}
